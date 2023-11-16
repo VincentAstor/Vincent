@@ -7,10 +7,20 @@
 # other
 DOMAIN-SUFFIX,dnflee.com
 DOMAIN-SUFFIX,vipc9.com
+
+
 # OpenAi
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,oaiusercontent.com
+#DOMAIN-SUFFIX,oaistatic.com
+#DOMAIN-SUFFIX,oaiusercontent.com
+
 # 内容：Claude
 # 数量：2条
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,anthropic.com
+#DOMAIN-SUFFIX,claude.ai
+#DOMAIN-SUFFIX,anthropic.com
+
+# 三大运营商一键登录域名
+# ChinaOneKeyLogin
+#DOMAIN-SUFFIX,auth.wo.cn
+#DOMAIN-SUFFIX,cmpassport.com
+#DOMAIN-SUFFIX,id6.me
+#DOMAIN-SUFFIX,open.e.189.cn
